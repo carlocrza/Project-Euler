@@ -5,4 +5,4 @@ Project Euler is an online site created in 2001 dedicated to a series of complex
 
 Each file in this repository is my personal solution to a unique Project Euler problem. 
 
-- - - - Repository to be further updated with solutions in the future. - - - - 
+- - - - Repository to be further updated with more solutions soon. - - - - 
